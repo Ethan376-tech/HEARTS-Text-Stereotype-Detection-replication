@@ -1,0 +1,11 @@
+HEARTS BASELINE REPLICATION RESULTS
+======================================================================
+
+Paper F1 Score (EMGSD):     0.8150 (81.5%)
+Your F1 Score:              0.8645 (86.45%)
+Absolute Difference:        0.0495
+Percentage Difference:      6.07%
+Accuracy:                   0.8785
+Binary F1:                  0.8209
+
+Status: REVIEW NEEDED
